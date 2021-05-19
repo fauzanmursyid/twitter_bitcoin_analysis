@@ -1,2 +1,2 @@
 # flask_1
-World Bank data Visualization
+This web application is a real-time sentiment analysis tracker for tweets about Bitcoin. The deployed version on heroku can be accessed here: https://bitcoin-sentiment-analysis.herokuapp.com/
