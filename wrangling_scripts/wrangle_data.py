@@ -27,10 +27,10 @@ def return_figures():
 
   # first chart plots arable land from 1990 to 2015 in top 10 economies 
   # as a line chart
-    consumer_key='3vNBiNmUsQkVB2XCN6KdZFiQr'
-    consumer_secret='xaQlFa8bmHeIbYpU0I5Guc64LokRq3Sq3SMNkuA5kdxPDMFghT'
-    access_key='1300078515270762499-a7pc4AOHSjs49vNupj2hcCdj4YGxi5'
-    access_secret='HYkqrBHSiADBEaSzumsIKU6fwBABCfeTSiEmU4jB6NGlP'
+    consumer_key=''
+    consumer_secret=''
+    access_key=''
+    access_secret=''
     auth = tw.OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_key, access_secret)
     api = tw.API(auth, wait_on_rate_limit=True)
